@@ -1,6 +1,7 @@
-# meeting_back
+# 电子刊后台编辑页面
 
-> A Vue.js project
+> A Vue.js project 
+> baidu 富文本编辑器
 
 ## Build Setup
 
